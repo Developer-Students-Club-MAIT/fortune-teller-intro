@@ -1,0 +1,38 @@
+body {
+  background-image: url(./assets/HalloweenBG6.png);
+  background-size: cover;
+  background-color: rgb(137, 17, 184);
+  font-family: "Syne Mono", monospace;
+  background-position: center;
+}
+
+.head {
+  font-size: 80px;
+  font-weight: 800;
+  text-align: center;
+  margin: 0;
+  color: antiquewhite;
+}
+.sub-head {
+  font-size: 30px;
+  color: antiquewhite;
+  margin: 0 20%;
+  margin-bottom: 3%;
+}
+.sub {
+  font-size: 25px;
+  color: antiquewhite;
+}
+.container-box {
+  overflow: hidden;
+  display: block;
+}
+#glass {
+  margin-top: -130px;
+  margin-bottom: 3%;
+}
+.fa {
+  font-size: 25px;
+  margin: 7px;
+  margin-top: 5%;
+}
