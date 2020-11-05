@@ -22,17 +22,28 @@ body {
 .sub {
   font-size: 25px;
   color: antiquewhite;
+  margin: 5%;
+  text-align: justify;
 }
 .container-box {
   overflow: hidden;
   display: block;
 }
 #glass {
-  margin-top: -130px;
   margin-bottom: 3%;
+  margin-left: 5%;
+  margin-right: 5%;
 }
 .fa {
   font-size: 25px;
   margin: 7px;
   margin-top: 5%;
+}
+.sub-head-s {
+  font-size: 30px;
+  font-weight: 700;
+  color: antiquewhite;
+  text-align: center;
+  margin-bottom: 3%;
+  margin-left: 5%;
 }
