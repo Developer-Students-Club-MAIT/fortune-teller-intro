@@ -4,6 +4,7 @@ body {
   background-color: rgb(137, 17, 184);
   font-family: "Syne Mono", monospace;
   background-position: center;
+  overflow-x:hidden;
 }
 
 .head {
